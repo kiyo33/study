@@ -13,8 +13,8 @@ p {
 }
 
 a:hover {
-    color: yellow;
-    background-color: red;
+    color: blueviolet;
+    background-color: blueviolet;
 }
 
 .abc.def {
